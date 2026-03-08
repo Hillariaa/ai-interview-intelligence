@@ -1,5 +1,11 @@
 # AI Interview Intelligence API
 
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-API-green)
+![Whisper](https://img.shields.io/badge/Speech%20to%20Text-Whisper-purple)
+![OpenAI](https://img.shields.io/badge/LLM-OpenAI-black)
+![Docker](https://img.shields.io/badge/Docker-Container-blue)
+
 AI Interview Intelligence is an applied AI system that analyzes interview responses from audio recordings.  
 It combines **speech recognition and large language models** to transcribe candidate answers and generate structured interview insights for recruiters.
 
