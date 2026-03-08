@@ -209,4 +209,4 @@ The focus is on building **real AI systems rather than isolated models**.
 
 # Author
 
-Hilary — Applied AI Engineer
+Hilary Azimoh — Applied AI Engineer
