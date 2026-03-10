@@ -96,6 +96,7 @@ FastAPI API Response
 
 Use my mini audio bio:
 
+[data_hilary_interview.wav](https://github.com/user-attachments/files/25859382/data_hilary_interview.wav)
 
 ---
 
