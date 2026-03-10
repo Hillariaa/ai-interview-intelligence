@@ -6,6 +6,17 @@
 ![OpenAI](https://img.shields.io/badge/LLM-OpenAI-black)
 ![Docker](https://img.shields.io/badge/Docker-Container-blue)
 
+Interact with the system here: 
+
+https://ai-interview-intelligence.onrender.com/docs
+
+also use my very own audio bio and get to know me:
+
+[data_hilary_interview.wav](https://github.com/user-attachments/files/25859419/data_hilary_interview.wav)
+
+
+---
+
 AI Interview Intelligence is an applied AI system that analyzes interview responses from audio recordings.  
 It combines **speech recognition and large language models** to transcribe candidate answers and generate structured interview insights for recruiters.
 
