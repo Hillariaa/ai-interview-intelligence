@@ -67,14 +67,6 @@ FastAPI API Response
 
 ---
 
-# API Endpoint
-
-## Analyze Interview
-
-**POST**
-
----
-
 # Tech Stack
 
 **AI / ML**
@@ -101,6 +93,9 @@ FastAPI API Response
 
 **POST**
 /analyze-interview
+
+Use my mini audio bio:
+
 
 ---
 
